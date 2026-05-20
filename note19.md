@@ -1,0 +1,16 @@
+# analiz
+- Datasetdə Year sütunu əsasında 4 əsas era yaradılmış və hər dövr üzrə genre, platform və publisher bazar payı müqayisə edilir
+- Genre bazar payı analizində 1980-ci illərdə Action janrının təxminən 29% bazar payı ilə dominant olduğu müəyyən edilir
+- 2000ci illərdən etibarən Shooter janrının payı artmağa başlamış və xüsusilə 2010cu illərdə bazarın əsas istiqamətlərindən birinə çevrilib
+- Puzzle janrının isə 1990cı illərdə 7.2% bazar payına malik olduğu halda 2010cu illərdə 1.1%ə qədər azaldığı müşahidə edilir
+- Platform analizində PS2 platformasının 2000ci illərdə təxminən 11.8% bazar payı ilə lider olduğu, sonrakı dövrdə isə X360 platformasının ön plana keçdiyi müəyyən edilir. Bu dəyişiklik konsol texnologiyalarının və istifadəçi seçimlərinin zamanla dəyişdiyini göstərir
+- Ümumilikdə analiz nəticələri video oyun sənayesində janr, platform və publisher dominantlığının onilliklər ərzində ciddi şəkildə dəyişdiyini və bazarın daha rəqabətli struktura keçdiyini göstərir
+# business insights
+- Action janrının 1980ci illərdə bazarın təxminən 29%ni təşkil etməsi istifadəçilərin daha sadə və sürətli gameplay tipli oyunlara üstünlük verməsi ilə bağldır buna görə yeni action oyunlarında nostalji elementlər və retro gameplay mexanikaları istifadə edilərsə older gamerler yenidən cəlb edilə bilər
+- Shooter janrının 2000ci illərdən sonra bazar payını artırması online multiplayer və rəqabətli oyunların sürətlə populyarlaşması ilə bağlıdır buna görə multiplayer infrastrukturu gücləndirilərsə istifadəçi retention göstəriciləri artırıla bilər
+- Puzzle janrının bazar payının 7.2%dən 1.1%ə düşməsi istifadəçi marağının daha yüksək qrafikalı və aksiyon yönümlü oyunlara keçməsi ilə bağlıdır, buna görə puzzle oyunlarına multiplayer, story mode və reward sistemi əlavə olunarsa engagement artırıla bilər
+- PS2 platformasının 2000ci illərdə 11.8% bazar payına sahib olması güclü eksklusive oyun kataloqu ilə bağlıdır, buna görə platformalar üçün eksklusive kontent strategiyası qurularsa istifadəçi bazası daha sürətli böyüdülə bilər
+- Nintendonun publisher payının 78%dən 12%ə düşməsi bazarda EA, Ubisoft və Activision kimi rəqiblərin güclənməsi ilə bağlıdır, buna görə publisherlər uzunmüddətli dominantlıq üçün franchise və exclusive IP investisiyalarını artırmalıdır
+- Action janrının bütün dövrlərdə top 3də qalması bu janrın həm casual, həm də hardcore oyunçulara uyğun olması ilə bağlıdır, buna görə yeni oyun layihələrində action elementlərinin digər janrlarla birləşdirilməsi satış potensialını artıra bilər
+- X360 platformasının 2010cu illərə keçiddə bazar payını artırması online gaming xidmətlərinin və multiplayer ekosisteminin inkişafı ilə bağlıdır, buna görə cloud gaming və subscription modellərinə investisiya artırılarsa platforma loyallığı yüksələ bilər
+- Role-Playing janrının JP/NA nisbətinin yüksək olması JRPG oyunlarının Yaponiyada daha güclü oyun mədəniyyətinə sahib olması ilə bağlıdır, buna görə Asiya bazarı üçün lokalizasiya və anime-stil kontent investisiyaları artırılarsa regional satışlar yüksələ bilər
