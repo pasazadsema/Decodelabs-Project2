@@ -33,7 +33,6 @@ duplicates = df.duplicated().sum()
 print(f"\nDuplicate Rows Before Cleaning: {duplicates}")
 
 df = df.drop_duplicates()
-
 print(f"Duplicate Rows After Cleaning: {df.duplicated().sum()}")
 # STEP 5-Duplicate Order IDs
 duplicate_orders = df["OrderID"].duplicated().sum()
